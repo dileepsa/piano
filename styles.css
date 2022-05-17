@@ -1,0 +1,27 @@
+body {
+  width: 960px;
+  margin: 4em auto;
+  background-color: grey;
+}
+
+.page-wrapper {
+  display: flex;
+}
+
+.white {
+  height: 300px;
+  width: 50px;
+  background-color: rgb(246, 240, 240);
+  /* position: relative; */
+  border: 0.05em solid lightgrey;
+  right: 1em;
+}
+
+.black {
+  border: 0.05em solid lightgrey;
+  height: 200px;
+  width: 50px;
+  background-color: black;
+  /* position: relative; */
+  right: 1em;
+}
